@@ -20,6 +20,7 @@ Create abstract Super class. Create concrete components that extend that abstrac
 ## Cons
 
 - Bad if your code depends on checks for conrete types.
+- Can lead to a lot of classes, which makes understanding the behaviour difficult.
 
 ## Definition
 
